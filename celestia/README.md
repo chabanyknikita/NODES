@@ -160,7 +160,7 @@ Create ETH address in metamask
 
 ### SAVE PRIVATE VALIDATOR KEY
 
-/.andromedad/config/priv_validator_key.json
+/.celestia-app/config/priv_validator_key.json
 
 ```
 cat /.andromedad/config/priv_validator_key.json
