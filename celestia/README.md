@@ -163,7 +163,7 @@ Create ETH address in metamask
 /.celestia-app/config/priv_validator_key.json
 
 ```
-cat /.andromedad/config/priv_validator_key.json
+cat /.celestia-app/config/priv_validator_key.json
 ```
 
 ### Go to [discord channel](https://discord.gg/kUSueaB22b) #mocha-faucet and paste
