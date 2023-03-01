@@ -154,7 +154,7 @@ SAVE YOUR INPUT SEED PHRASE (24 words)
 celestia-appd keys add orchestrator
 ```
 
-SAVE YOUR INPUT SEED PHRASE (24 words)
+SAVE YOUR INPUT SEED PHRASE (24 words)\n
 Create ETH address in metamask
 
 ### SAVE PRIVATE VALIDATOR KEY
