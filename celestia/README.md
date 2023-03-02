@@ -175,7 +175,7 @@ $request YOUR_VALIDATOR_WALLET_ADDRESS
 ### Create Validator
 
 ```
-andromedad tx staking create-validator \
+celestia-appd tx staking create-validator \
 --amount=1000000utia \
 --pubkey=$(celestia-appd tendermint show-validator) \
 --moniker="$NODE_MONIKER" \
@@ -187,7 +187,7 @@ andromedad tx staking create-validator \
 --from=wallet \
 --gas-adjustment 1.5 \
 --gas auto \
---gas-prices 0.0001utia \
+--gas-prices=0.0001utia \
 -y
 ```
 
